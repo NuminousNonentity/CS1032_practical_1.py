@@ -1,0 +1,6 @@
+fname = input("What's your first name? :")
+lname = input("What's your last name? :")
+age = int(input("How old are you? :"))
+salary = int(input("How much do you make a year? :"))
+Pcode = input("What's your post code? :")
+print(fname, lname, age, "£"+salary, Pcode)
